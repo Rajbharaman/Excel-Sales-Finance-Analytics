@@ -1,6 +1,6 @@
 # Excel: Sales & Finance Analytics
 
-# Sales Report
+#Sales Report
 # Project Objective
 
 1) Create a Customer Performance Report
