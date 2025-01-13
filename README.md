@@ -9,19 +9,19 @@
 
 # Purpose of Sales Analytics
 
-Empower businesses to monitor and evaluate their sales activities and performance.
+--Empower businesses to monitor and evaluate their sales activities and performance.
 
 # Importance of Analyzing Sales Data
 
-Identify sales patterns and track key performance indicators (KPIs).
+--Identify sales patterns and track key performance indicators (KPIs).
 
 # Role of Reports
 
-Determine effective customer discounts
+--Determine effective customer discounts
 
-Facilitate negotiations with consumers
+--Facilitate negotiations with consumers
 
-Identify potential business expansion opportunities in promising countries
+--Identify potential business expansion opportunities in promising countries
 
 
 # Finance Report
@@ -34,41 +34,41 @@ Identify potential business expansion opportunities in promising countries
 
 # Purpose of Finance Analytics
 
-Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
+--Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
 
 # Importance of Analyzing Finance Data
 
-Benchmark against industry peers and previous periods
+--Benchmark against industry peers and previous periods
 
-Foundation for budgeting and forecasting
+--Foundation for budgeting and forecasting
 
 # Role of Reports
 
-Align financial planning with strategic goals
+--Align financial planning with strategic goals
 
-Instill confidence in the organization's financial outlook
+--Instill confidence in the organization's financial outlook
 
 # Technical & Soft Skills
 
 # Technical Skills
 
-Proficiency in ETL methodology (Extract, Transform, Load)
+* Proficiency in ETL methodology (Extract, Transform, Load)
 
-Generate a date table using Power Query
+* Generate a date table using Power Query
 
-Derive fiscal months and quarters
+* Derive fiscal months and quarters
 
-Establish data model relationships with Power Pivot
+* Establish data model relationships with Power Pivot
 
-Incorporate supplementary data into an existing data model
+* Incorporate supplementary data into an existing data model
 
-Utilize DAX to create calculated columns
+* Utilize DAX to create calculated columns
 
 # Soft Skills
-Refined understanding of Sales & Finance Reports
+* Refined understanding of Sales & Finance Reports
 
-Design user-centric reports with empathy in mind
+* Design user-centric reports with empathy in mind
 
-Optimize report generation through meticulous fine-tuning
+* Optimize report generation through meticulous fine-tuning
 
-Develop a systematic approach to devising a report building plan
+* Develop a systematic approach to devising a report building plan
