@@ -3,9 +3,9 @@
 # Sales Report
 # Project Objective
 
-1) Create a Customer Performance Report
+1) Create a [Customer Performance Report](https://github.com/Rajbharaman/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-2) Compare Market Performance and Sales Targets
+2) Compare [Market Performance and Sales Targets](https://github.com/Rajbharaman/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 # Purpose of Sales Analytics
 
@@ -28,9 +28,9 @@
 
 # Project Objective
 
-1) Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1) Create [Profit and Loss (P&L) reports by Fiscal Year](https://github.com/Rajbharaman/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/Rajbharaman/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
    
-3) Create Profit and Loss (P&L) reports by Markets
+3) Create [Profit and Loss (P&L) reports by Markets](https://github.com/Rajbharaman/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 # Purpose of Finance Analytics
 
