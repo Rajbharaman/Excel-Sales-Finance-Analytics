@@ -32,10 +32,15 @@ Instill confidence in the organization's financial outlook
 
 # Technical Skills
 Proficiency in ETL methodology (Extract, Transform, Load)
+
 Generate a date table using Power Query
+
 Derive fiscal months and quarters
+
 Establish data model relationships with Power Pivot
+
 Incorporate supplementary data into an existing data model
+
 Utilize DAX to create calculated columns
 
 # Soft Skills
