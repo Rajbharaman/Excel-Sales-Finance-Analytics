@@ -3,7 +3,7 @@
 # Sales Report
 # Project Objective
 
-1) Create a [Customer Net Performance Report](https://github.com/Rajbharaman/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+1) Create a [Customer Net Performance Report](https://github.com/Rajbharaman/Excel-Sales-Finance-Analytics/blob/main/Customer%20Net%20Performances%20Report.pdf)
 
 2) Compare [Market Performance and Sales Targets](https://github.com/Rajbharaman/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
